@@ -27,4 +27,3 @@ En Linux y macOS, solo necesitas instalar Python y ejecutar `main.py` como se in
 
 Desarrollado por **Brian**  
 [GitHub: istbrianl30](https://github.com/istbrianl30)
-```
