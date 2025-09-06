@@ -28,7 +28,3 @@ En Linux y macOS, solo necesitas instalar Python y ejecutar `main.py` como se in
 Desarrollado por **Brian**  
 [GitHub: istbrianl30](https://github.com/istbrianl30)
 ```
-
----
-
-Si quieres que el enlace apunte a otro perfil o que el README incluya una captura de pantalla o GIF de la app en acción, puedo ayudarte a integrarlo también.
